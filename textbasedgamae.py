@@ -1,9 +1,9 @@
 #haha code go yeet
 print('----------text based game----------')
 name = input('What is your name?\n')
-choice1 = input('Press 0( or some int, idk ) to continue, or 1 to fuck off.\n')
+choice1 = input('Press 0( or some int, idk ) to continue, or 1 to ESC.\n')
 if choice1 == '1':
-    print('Ok now fuck off.')
+    print('Ok.')
     print('"outta here" ending. 1/10 endings.')
 else:
     print('OK. Program starting......')
@@ -50,8 +50,8 @@ else:
             print('You do not want to do anything above, so you are stuck in a loop, where you CAN NOT ESCAPE.')
             print('REAL BAD ENDING. 6/10 endings')   
     else:
-        print('You fucking broke the game. Fuck off.')
-        print('shitty ending. 10/10 endings.')
+        print('You broke the game. Go away.')
+        print('5h177y ending. 10/10 endings.')
         print('textbasedgame.')
 
 
