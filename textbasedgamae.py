@@ -7,10 +7,10 @@ if choice1 == '1':
     print('"outta here" ending. 1/10 endings.')
 else:
     print('OK. Program starting......')
-    print('You wake up in a bed in a wooden house.') 
+    print('You wake up in a bed inside a wooden house.') 
     print('The fireplace is burning.') 
     print('The winter is near, and it is very cold outside.')
-    choice2=input('Press 0 to go out, or 1 to keep sleeping.\n')
+    choice2=input('Press 0 to go out, or 1 to sleep more.\n')
     if choice2=='0':
         print('You go out.You died of emotional damage. You suck.')
         print('Your stats: 0 HP, 0 DEF, 0 MP, 0 Coin.')
